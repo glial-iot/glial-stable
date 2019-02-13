@@ -4,45 +4,45 @@ Hash: SHA256
 Origin: glial-iot.github.io/glial-stable
 Label: glial-iot.github.io/glial-stable
 Codename: stretch
-Date: Wed, 13 Feb 2019 16:19:49 UTC
+Date: Wed, 13 Feb 2019 16:39:19 UTC
 Architectures: armhf amd64
 Components: main
 Description: Glial test
 MD5Sum:
- b11ef660e2b994ed3d3e475f8b14219c 639 main/binary-armhf/Packages
- 7562e24535f57f94ef5076da39ad0079 449 main/binary-armhf/Packages.gz
+ 2f16bf1c9a4b1036bbd4d2c2e5639031 639 main/binary-armhf/Packages
+ a1a2273b89ac5b94d392f9467ee6ebce 450 main/binary-armhf/Packages.gz
  843cd7801643a65b98cfd1b11b512eda 141 main/binary-armhf/Release
- 0c1a6989ba6e2faffaea96ba72024594 639 main/binary-amd64/Packages
- f49a665651428db0769fe6c03e2b7515 449 main/binary-amd64/Packages.gz
+ 4a9c9756888391fb184db5fb4fce61e4 639 main/binary-amd64/Packages
+ 615dc5b9adf93ad01b28cdd9f59d1056 450 main/binary-amd64/Packages.gz
  d632f3840d824d67de5c6fc92081b6bf 141 main/binary-amd64/Release
 SHA1:
- 1fd35732d9b5ff6b134fd3898bba0aa5d6ececa6 639 main/binary-armhf/Packages
- 8e8f295c27300c3db947cec43d5978cd59febea6 449 main/binary-armhf/Packages.gz
+ 0d3133aa82f0957bd4b7c6af3bc29e679d235099 639 main/binary-armhf/Packages
+ 51d5fdbcbaa674d75b2414a5432e8f32e9c2691b 450 main/binary-armhf/Packages.gz
  1923f6c4e7faa848883698fc344e5379941abb8f 141 main/binary-armhf/Release
- 562390fea9d7ae8eb01c4903e29138a34723004c 639 main/binary-amd64/Packages
- 5662671d389791effaaec139343cfc39b6a69300 449 main/binary-amd64/Packages.gz
+ adf2be6c19adef96163a06c2d549555c26c94787 639 main/binary-amd64/Packages
+ 688ea6f8d706f573d66ade81d6d5d0773f02715d 450 main/binary-amd64/Packages.gz
  5993646579950fbe59bbe5428479537d8cb00bd8 141 main/binary-amd64/Release
 SHA256:
- de374fcae6f75848884f96b5ecc30f3e9dcfab13f98df163592b1de35e3e5fd7 639 main/binary-armhf/Packages
- 5c8ae969168c0aa538b7c731fa17020610cbc3d363c3b105886e07c1f6614b8e 449 main/binary-armhf/Packages.gz
+ 660cd2f95e88305c915ec6a6fecf6df72103a8430d30cb9cfb2cacf2142bd85d 639 main/binary-armhf/Packages
+ e8115e4bbce10ced06786cb7787aabbb5b21a8678844ccfec950b22391cca6fc 450 main/binary-armhf/Packages.gz
  b93f1724099f8c7802de60831c60bf08cc938c95faa5547b01448e4e5e710cd5 141 main/binary-armhf/Release
- 90d807bb9e16b5a9ea38fe454b7e8d3a20f52ddbfa648c654bb8ef27edeb0486 639 main/binary-amd64/Packages
- 40d08bb0345f8de72d90dfacb3091b18f22d045dd20c6ebca7f15764968ce43d 449 main/binary-amd64/Packages.gz
+ 78706d31318b2aae9bf1eddbfe1231af719c8ed0d29dbcfe4d3e5217615b972d 639 main/binary-amd64/Packages
+ c592d5ffa8acc42c5d5bbba0b167bfa796738c20e07390dd1522cb6e8a06763f 450 main/binary-amd64/Packages.gz
  594f0c394b22fe5fdcd94a710d60a2343ae4204457e29946e76db7367099cbd4 141 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.22 (GNU/Linux)
 
-iQIcBAEBCAAGBQJcZEOmAAoJEBqk0LWpTSyKOlkQALwUVKN9IGCt+NE9A3ajKdBh
-+mSZsDfJhCLWiiSUUg84QnP8zSrNmSpFr9yuhm1LLF3g9eVEOcmF+ojWcJIYmIpk
-/HR9/caEUat/cU1XEjKGi1jmkoX6ZNq8/gIHolglwFMS5BhQeIzJa8pu0sH5Gn8V
-iUy1mxPy/z8cI9DrPg7GSC7F4zoZgwHSK7m15fFHT+FxwVbAwW/Ryw/bFBAhvsPi
-qq1WLzVcvLOi9o47p4hWazTUbuEZkvoW2BK2eqH0L17iJlGMAFW8Ga8lezeJuTOJ
-D1qLiXNK2RmRgRIgVwevp1TVFt214OtR8P3AD+9u397SqenQnx2VUjy9hBAqwG7r
-tMVXXcEWaGXJKk0+pXuWntM+N4HIjO5JZufrjfkTpjlsSmw742bQa1d/w+9l6Egr
-JsrYtvG2kxZs8qU8Bl7iFzWLAwyaeOxVw1f3Gc1e78YOSEX2JohCjYgD3vTdYkhZ
-WgkC3i1h65eIUL2xVaYdriURKpkacmh1kcZCQyAFqOiLZIKKPh3lWsFVjgVh5L9Z
-Nompv71MHKvp753HuKhzclXoLXySRQCACNylXf7u/5yCFhwN5ESiBpwIjQSbQX8H
-1zP3QZtu+dWTCuO+AfGNLXPBHIAKABc1Aj7vpY9V1AfpIPMp99xyM5mxi0q043QR
-Yj3B5bi0o6HuiXuDJOsg
-=mSy1
+iQIcBAEBCAAGBQJcZEg3AAoJEBqk0LWpTSyKrtEP/A3WVz4kt5i7yCr448dXz4J5
+XIwCxmH/ZgPij5pXcksHcReHWEot/01z1ixJdG208aFA3Ol86Sp0VMLx6AotBEY4
+9IqPdFEM+5cXmrD2t0QfyRBPn5AOCBHL/efmCFr14TFOfEqpzCq+swCTljG0kOrC
+eRyU7wb7IdaRphDUvQUZJv091FjOmAbTjdaGx+y7PzBESB4Dn9A5Ci+9urA3u67D
+Y4F+0hjz4X4nRd2kFtfNCQSPivWCcajRPPvqbO1jbVA17dq6KdxkwmfPPsK7xRHt
+cGrO+wKjVuBTpa7lyW8ZuHYlbIeMU0bd2QXvaBheLtjArMRvCCxmwilx94ZOO5bO
+vSjKm8sFrM5DaBGnG8leu/Kxqu0sD1zy0EvTZDqdRA38TitSaCpxiqp27Qk5RBey
+yssIyUtkR3rjwhF5F4RHa/yMWni2r/q+DVJzPfO27C9VHDI9Rmiavp0vTV9lrvnJ
+QPv3lw5tEHskG7Ikms6oYnIgYf008AtMRSsKsKGUEYjWBIuYLNIdSYiZUNFBSS4T
+e9qs4QfM9c0oZ0ZQcnHiexsBQNnT8OH7hof9pemZbiAjucxc0wwZNdNtQUz1PISh
+V5GbE8TaNnsceocIUxTHORMC7CtP6uoN3HqjDa+3etBqzqs136fYlauuG1proEjQ
+2nSK8HG5xXf5FXA6wHkg
+=KyYg
 -----END PGP SIGNATURE-----
