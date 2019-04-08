@@ -1,0 +1,18 @@
+Package: glial
+Maintainer: vvzvlad <vvzvlad@gmail.com>
+Priority: optional
+Section: misc
+Filename: pool/main/g/glial/glial_0.74-11-g0774c18-stable_amd64.deb
+Size: 1226840
+SHA256: f295033706d084013e49e4cda37999d076a602aba89763f4d40608c1ef48b076
+SHA1: ecb2772ed466bd364803235b5ac435728ba31dd7
+MD5sum: 67ed0644dd1b8ca172b644c722a7931d
+Description: IoT management system by Nokia IoT Lab
+Origin: Nokia IoT Laboratory <info@glial.pro>
+Depends: tarantool (>= 1.10.0), libmosquitto-dev, tarantool-dev (>= 1.10.0)
+Homepage: http://glial.pro
+Vcs-Git: git://git@github.com:glial-iot/glial_core.git
+Architecture: amd64
+Version: 0.74-11-g0774c18-stable
+Installed-Size: 4644
+
