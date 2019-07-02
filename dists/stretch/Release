@@ -1,28 +1,28 @@
 Origin: glial-iot.github.io/glial-stable
 Label: glial-iot.github.io/glial-stable
 Codename: stretch
-Date: Thu, 20 Jun 2019 16:06:03 UTC
+Date: Tue, 02 Jul 2019 13:30:07 UTC
 Architectures: armhf amd64
 Components: main
 Description: Glial stable version
 MD5Sum:
- 9fb82b5f5fb4b922675715d55e5e011b 662 main/binary-armhf/Packages
- 4af7215f14d26b404849056dadf4f3d6 463 main/binary-armhf/Packages.gz
+ 860bc095f1d591fb2f8ade5531189c6a 662 main/binary-armhf/Packages
+ 4b8847ea1880ede573fe364965b788de 462 main/binary-armhf/Packages.gz
  1b395fe18776a1c67ab782bf0c392b56 151 main/binary-armhf/Release
- f31f244ab11dab35e9e2c1842e865f01 662 main/binary-amd64/Packages
- 3f837456aae61f993a9fba616ffa12de 462 main/binary-amd64/Packages.gz
+ c32ca0b20b5cd52a771bc9a0095006e0 662 main/binary-amd64/Packages
+ 6c9bc5b23c44da4dec7cbad319182fce 463 main/binary-amd64/Packages.gz
  88f1c283c9b26082968ff3746612217d 151 main/binary-amd64/Release
 SHA1:
- 12986026cbd331c0deeb87a19dbf77f858682a4a 662 main/binary-armhf/Packages
- 657c5eb9e2210e79d81aa5fcccac9194b0777412 463 main/binary-armhf/Packages.gz
+ 4f955264f01246c2b5a27b44accaf2e19833d080 662 main/binary-armhf/Packages
+ 9ee59757b5716632c04f947bcb29e3dab3da8921 462 main/binary-armhf/Packages.gz
  8a540b2e917250aef3ff5a2703eafa2570d8a62a 151 main/binary-armhf/Release
- 8e75904b7129d70a1a8cc34cdbc3a315cb2ae62a 662 main/binary-amd64/Packages
- cf839d4cd704ac47a3ad9d4dd4ec4990aaa1db64 462 main/binary-amd64/Packages.gz
+ bf3d1a9483e198c876134a8090895614e7886a05 662 main/binary-amd64/Packages
+ 3616f3da8033060dc143aaec12c73148a06e62c9 463 main/binary-amd64/Packages.gz
  0f24ff03eab037e83f880802b40d627492acb235 151 main/binary-amd64/Release
 SHA256:
- 3984b6c31c72cb646fca2af22438e04cc2000330c4eb0a1ccae9b294eecece3e 662 main/binary-armhf/Packages
- ef0e65233a8b8740aa9482b0f9a8a104caf0444fc7ca05de57bc960f39bc749c 463 main/binary-armhf/Packages.gz
+ 91d865b6a416ca34f6aa80a4fa74ff08220fe18f43eb1bb0b20eaea1dcd5ee46 662 main/binary-armhf/Packages
+ e25346c8262ccd2412aa22a8341ee0a5058c1a92bc4f78552fc18b1ca81588f1 462 main/binary-armhf/Packages.gz
  a397c1ae461f006369ed52f1eaaa4ba2901fb798064a8bdb3ba58ba8fa09b6d8 151 main/binary-armhf/Release
- 05f25c027a5cc7e64f4b3c10445eaa59a9f43b795ceb42d065b026a132d3440a 662 main/binary-amd64/Packages
- b094cf523f1a31fed7624d055bb3efc52d23e4d9c4415dbc302bbde07daa84b9 462 main/binary-amd64/Packages.gz
+ f4e9ac9838dd87df7bb9b0969e10ffdd047e90b6d95788ac1d7b702fdd31264e 662 main/binary-amd64/Packages
+ b46a859a24556374f39e0e05f83288da90dbc2f2e5de5c8278f60b551e8933d1 463 main/binary-amd64/Packages.gz
  60982574ad726e59b58c09deb922d718ce2d7e70e5c164f2f96ed3ce43065882 151 main/binary-amd64/Release
